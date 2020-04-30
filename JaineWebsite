@@ -38,7 +38,7 @@ First I want to look at this heatmap correlation.
 
 There strongest correlation I found happened to be at .61 which is 2nd Education percentage and your status if you're getting a job or not. Maybe you can interpret this as, the percentages you got in high school can dictate your success on landing a job.
 
-## Core Data
+## Data Results
 
 
 While working on my code, I ran a permutation importance graph. The degree you would like to Specialise in will help increase your knowledge on the degree type you'd want to get. Specialization happens after you complete your undergrad. The MBA percentage tells you the student's grade during their mba. 
